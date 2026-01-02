@@ -71,7 +71,7 @@ export function About() {
                                 href="/cv/Hiruna_Dissanayake_CV.pdf"
                                 className="inline-block px-8 py-4 bg-black text-white text-sm uppercase tracking-widest font-bold hover:bg-zinc-800 transition-colors"
                             >
-                                Download Credentials
+                                Download CV
                             </a>
                         </motion.div>
                     </div>
