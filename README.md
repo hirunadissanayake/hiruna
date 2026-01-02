@@ -1,4 +1,4 @@
-# Hiruna Dissanayake | Portfolio v3
+# Hiruna Dissanayake | Portfolio 
 
 A premium, high-performance personal portfolio built with modern web technologies.
 
