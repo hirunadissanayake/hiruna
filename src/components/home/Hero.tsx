@@ -57,7 +57,7 @@ export function Hero() {
                     >
                         <div className="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent z-10" />
                         <Image
-                            src="/pictures/hero_v2.jpg"
+                            src="/pictures/hero_main.jpg"
                             alt="Hiruna Dissanayake"
                             fill
                             className="object-cover object-top grayscale group-hover:grayscale-0 transition-all duration-700 ease-in-out"
