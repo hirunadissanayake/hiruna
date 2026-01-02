@@ -26,11 +26,11 @@ const projects = [
         number: '02'
     },
     {
-        title: 'SERENITY HEALTH',
-        role: 'Web Developer',
-        description: 'A comprehensive digital platform for mental health therapy centers, focusing on user experience and accessible healthcare management.',
-        tech: ['HTML', 'CSS', 'JS', 'PHP/MySQL'],
-        github: 'https://github.com/hirunadissanayake/Serenity-Mental-Health-Therapy-Center',
+        title: 'BLACKBOARD LMS',
+        role: 'Full Stack Developer',
+        description: 'Comprehensive digital platform for educational institution management and real-time student tracking. Built with React and Supabase for high performance.',
+        tech: ['React', 'Supabase', 'Tailwind', 'PostgreSQL'],
+        github: 'https://github.com/hirunadissanayake/BlackBoard',
         image: '/icons/icons8-github-50.png',
         color: 'bg-zinc-900',
         number: '03'

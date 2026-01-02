@@ -13,7 +13,7 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://hiruna.me'), // Assuming a default, user should update
+  metadataBase: new URL('https://hiruna.vercel.app'),
   title: {
     default: "Hiruna Dissanayake | Software Engineer & Designer",
     template: "%s | Hiruna Dissanayake"
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://hiruna.me",
+    url: "https://hiruna.vercel.app",
     title: "Hiruna Dissanayake | Software Engineer & Designer",
     description: "Creative Software Engineer focusing on high-performance web experiences and elegant software solutions.",
     siteName: "Hiruna Dissanayake Portfolio",

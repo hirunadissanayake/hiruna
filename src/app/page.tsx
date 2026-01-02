@@ -14,7 +14,7 @@ export default function Home() {
     "name": "Hiruna Dissanayake",
     "alternateName": "Hiruna Sankalpa Dissanayake",
     "description": "Software Engineer & Designer based in Sri Lanka.",
-    "url": "https://hiruna.me",
+    "url": "https://hiruna.vercel.app",
     "jobTitle": "Software Engineer",
     "knowsAbout": [
       "Software Engineering",
@@ -26,7 +26,7 @@ export default function Home() {
     ],
     "sameAs": [
       "https://github.com/hirunadissanayake",
-      // Add LinkedIn here if you have it
+      "https://www.linkedin.com/in/hiruna-dissanayake-616411290"
     ]
   };
 
