@@ -16,8 +16,4 @@ A premium, high-performance personal portfolio built with modern web technologie
 - **Capabilities Grid**: Minimalist expertise section with modern iconography.
 - **Full Responsiveness**: Optimized for every device from mobile to ultra-wide displays.
 
-## Development
-```bash
-npm install
-npm run dev
-```
+
